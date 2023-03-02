@@ -1,5 +1,8 @@
 ### Hi there 👋
+🌱 I’m currently learning deep learning and machine learning applied ot music information retrieval
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElisaCastelli&repo=github-readme-stats)](https://github.com/ElisaCastelli/github-readme-stats)
 <!--
 **ElisaCastelli/ElisaCastelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
