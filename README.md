@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning deep learning and machine learning applied ot music information retrieval
+🌱 I’m currently learning deep learning and machine learning applied to music information retrieval
 
 ## Programming Languages
 
@@ -10,11 +10,14 @@
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1)](https://en.wikipedia.org/wiki/JavaScript)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaCastelli&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaCastelli&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2018%20mins-green)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-green)
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ElisaCastelli&repo=github-readme-stats)](https://github.com/ElisaCastelli/github-readme-stats)
 <!--
 **ElisaCastelli/ElisaCastelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
