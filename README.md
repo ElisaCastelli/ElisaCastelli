@@ -1,5 +1,6 @@
 ### Hi there 👋
 🌱 I’m currently learning deep learning and machine learning applied to music information retrieval
+🌱 Trying Django framework to make a poll application
 
 ## Programming Languages
 
