@@ -1,7 +1,11 @@
 ### Hi there 👋
+😄 Pronouns:She/Her
+
 🌱 I’m currently learning deep learning and machine learning applied to music information retrieval
 
-🌱 Trying Django framework to make a poll application
+🔭 Trying Django framework to make a poll application
+
+📫 How to reach me: castellielisa98@gmail.com
 
 ## Programming Languages
 
@@ -18,7 +22,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-green)
 
-
+<img src="https://myreadme.vercel.app/api/embed/ElisaCastelli?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--
 **ElisaCastelli/ElisaCastelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
