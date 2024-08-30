@@ -30,8 +30,7 @@
 
 <img src="https://myreadme.vercel.app/api/embed/ElisaCastelli?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
 
 <!--
 **ElisaCastelli/ElisaCastelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
