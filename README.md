@@ -1,12 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-😬 Me: I'm a graduated student of Music And Acoustic Engineering (MSc) and Computer Science and Enginerring (BSc) at Politecnico di Milano. I am a never tired listener with passion for music and computer science.
+😬 Me: I'm graduated in Music And Acoustic Engineering (MSc) and Computer Science and Enginerring (BSc) at Politecnico di Milano. I am a never tired listener with passion for music and computer science.
 
 😄 Pronouns: She/Her
 
 🌱 My fields of interest are deep and machine learning applied to Music Information Retrieval
-
-🔭 Currently: working on Django framework to make a poll application and Pytorch Lightning to create an Hit Song Prediction model
 
 📫 How to reach me: castellielisa98@gmail.com
 
