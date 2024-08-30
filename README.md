@@ -8,6 +8,8 @@
 
 📫 How to reach me: castellielisa98@gmail.com
 
+<img src="https://github.com/ElisaCastelli/stats/blob/master/github_stats.svg" alt="reimaginedreadme" />
+
 ## Programming Languages
 
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
