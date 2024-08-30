@@ -27,7 +27,7 @@ I'm graduated in Music And Acoustic Engineering (MSc) and Computer Science and E
 <img src="https://github.com/ElisaCastelli/stats/blob/master/github_stats.svg" alt="reimaginedreadme" width="300" height="auto" />
 
 ## Stats
-<img src="https://myreadme.vercel.app/api/embed/ElisaCastelli?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/ElisaCastelli?panels=userstatistics,commitgraph" alt="reimaginedreadme" />
 
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic)](https://moon-svg.minung.dev)
 
