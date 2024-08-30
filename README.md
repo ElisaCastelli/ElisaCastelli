@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 😬 Me: I'm graduated in Music And Acoustic Engineering (MSc) and Computer Science and Enginerring (BSc) at Politecnico di Milano. I am a never tired listener with passion for music and computer science.
 
