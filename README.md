@@ -26,13 +26,11 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElisaCastelli&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
-
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2018%20mins-green)
-
 
 <img src="https://myreadme.vercel.app/api/embed/ElisaCastelli?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **ElisaCastelli/ElisaCastelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
