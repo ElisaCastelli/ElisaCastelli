@@ -4,7 +4,7 @@ Hi there!! ![](https://user-images.githubusercontent.com/18350557/176309783-0785
 Machine Learning Engineer
 -------------------------
 
-I hold an MSc in Music and Acoustic Engineering and a BSc in Computer Science and Engineering, both from Politecnico di Milano. Currently, I work as a Machine Learning Engineer at Gemmo.AI. Beyond this, I am deeply passionate about full-stack development and Music Information Retrieval.
+I hold an MSc in Music and Acoustic Engineering and a BSc in Computer Science and Engineering, both from Politecnico di Milano. Currently, I work as a Machine Learning Engineer at [Gemmo.AI](https://www.gemmo.ai). Beyond this, I am deeply passionate about full-stack development and Music Information Retrieval.
 
 * 🌍  I'm based in Como
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/elisacastelli4/)
