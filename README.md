@@ -9,8 +9,6 @@ I hold an MSc in Music and Acoustic Engineering and a BSc in Computer Science an
 * 🌍  I'm based in Como
 * 🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/elisacastelli4/)
 * ✉️  You can contact me at [elisa@gemmo.ai](mailto:elisa@gemmo.ai)
-* 🤝  I'm open to collaborating on AI & ML projects
-
 ### Skills
 
 
